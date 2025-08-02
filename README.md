@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Greetings<br>🔭 I’m currently a computer science student<br>🌱 I’m currently learning more about being a fullstack developer<br>💬 Ask me about my projects<br>
+👋 Greetings<br>🔭 I’m currently a computer science student<br>🌱 I’m currently learning to be a fullstack developer<br>💬 Ask me about my projects<br>
 
 
 ## 🌐 Socials:
