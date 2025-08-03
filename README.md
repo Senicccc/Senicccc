@@ -1,5 +1,8 @@
 # 💫 About Me:
-👋 Greetings<br>🔭 I’m currently a computer science student<br>🌱 I’m currently learning to be a fullstack developer<br>💬 Ask me about my projects<br>
+👋 Hello! I'm a Computer Science student who’s passionate about creating useful applications<br>
+🔭 I'm learning both software development and web development<br>
+🌱 I’m developing my skills by building real projects and learning by doing<br>
+💬 Happy to share what I’ve built and what I’m currently learning!<br>
 
 
 ## 🌐 Socials:
